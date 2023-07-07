@@ -1,4 +1,4 @@
-i#include "main.h"
+#include "main.h"
 /**
  * _isupper - uppercase letters
  * @c: char to check
@@ -12,6 +12,3 @@ int _isupper(int c)
 	else
 	return (0);
 }
- 
-============================
-
